@@ -18,22 +18,12 @@ This project focuses on recognizing emotions from speech audio using machine lea
 
 2. Navigate to the project directory:
    ```bash
-   cd emotion-recognition-speech
+   cd speech-emotion-recognition
    ```
 3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-
-## Usage
-
-To run the emotion recognition, use the following command:
-
-```bash
-python main.py --audio_path path_to_audio_file.wav
-```
-
-Replace `path_to_audio_file.wav` with the path to your audio file.
 
 ## Dataset
 
